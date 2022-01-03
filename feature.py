@@ -1,0 +1,3 @@
+feature = 'ft'
+
+task = 't'
